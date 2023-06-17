@@ -1,13 +1,7 @@
-# bookshelf-api-dicoding-submission
+bookshelf-api-dicoding-submission
+Proyek Bookshelf API Selamat! Akhirnya Anda telah sampai di penghujung pembelajaran. Anda telah mempelajari:
 
-Proyek Bookshelf API
-Selamat! Akhirnya Anda telah sampai di penghujung pembelajaran. Anda telah mempelajari:
-
-Istilah back-end, front-end, server, client, web service, REST API serta belajar cara berkomunikasi antara client dengan server menggunakan cURL.
-Dasar-dasar Node.js dalam pengembangan Back-End, seperti global object, process, modularization, event, dan yang lainnya.
-Membangun web server menggunakan Node.js, baik secara native maupun menggunakan Hapi Framework. Selain itu, Anda sudah membuat RESTful API sederhana yang mendukung fungsionalitas aplikasi catatan.
-Melakukan deploy RESTful API pada Google Compute Engine.
-Pengujian RESTful API secara otomatis menggunakan Postman.
+Istilah back-end, front-end, server, client, web service, REST API serta belajar cara berkomunikasi antara client dengan server menggunakan cURL. Dasar-dasar Node.js dalam pengembangan Back-End, seperti global object, process, modularization, event, dan yang lainnya. Membangun web server menggunakan Node.js, baik secara native maupun menggunakan Hapi Framework. Selain itu, Anda sudah membuat RESTful API sederhana yang mendukung fungsionalitas aplikasi catatan. Melakukan deploy RESTful API pada Google Compute Engine. Pengujian RESTful API secara otomatis menggunakan Postman.
 
 Tentu Anda juga sudah mengerjakan seluruh latihan yang diberikan pada kelas ini.
 

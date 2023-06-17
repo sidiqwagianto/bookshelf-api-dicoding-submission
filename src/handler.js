@@ -211,7 +211,7 @@ const editBookByIdHandler = (request, h) => {
 
 // Kriteria 7 : API dapat menghapus buku
 
-const deleteBookByIdHandler = (request, h) => {
+const deleteBookById = (request, h) => {
   const { id } = request.params;
 
   const index = books.findIndex((book) => book.id === id);
@@ -239,5 +239,5 @@ module.exports = {
   getAllBooksHandler,
   getBookByIdHandler,
   editBookByIdHandler,
-  deleteBookByIdHandler,
+  deleteBookById,
 };
